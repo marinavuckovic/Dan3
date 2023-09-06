@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+}
+h1 {
+    text-align: center;
+}
+#d1 {
+    background-color: aquamarine;
+    border: 1px dotted black;
+    border-radius: 3px;
+}
+li{
+    list-style-type: none;
+
+}
+li:hover{
+    background-color: aqua;
+}
+.button:hover{
+    background-color: green;
+    color:black
+    
+}
+.sadrzaj{
+    text-align: center;
+}
+.brisanje{
+    background-color: red;
+}
